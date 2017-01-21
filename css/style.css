@@ -1,28 +1,30 @@
 
 h1 {
-	font-family: "arial narrow";
+	font-family: "Arial Narrow";
 	letter-spacing: 1px;
 	size: 24pt;
 	color: #ffa31a;
 }
 
 h3 {
-	font-family: "arial narrow";
+	font-family: "Arial Narrow";
 	letter-spacing: 1px;
 	size: 20pt;
 	color: #cc7a00;
 }
 
 p {
-	font-family: "arial narrow";
+	font-family: "Arial Narrow";
 	letter-spacing: 1px;
 	size: 16pt;
 	color: #343434;
 }
 
-.sublink {
-	size: 14pt;
-	text-indent: 20px;
+small {
+	font-family: "Arial Narrow";
+	letter-spacing: 1px;
+	size: 12pt;
+	color: #343434;
 }
 
 body {
