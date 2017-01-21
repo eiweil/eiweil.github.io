@@ -13,6 +13,13 @@ h3 {
 	color: #cc7a00;
 }
 
+h4 {
+	font-family: "Arial Narrow";
+	letter-spacing: 1px;
+	size: 16pt;
+	color: #cc7a00;
+}
+
 p {
 	font-family: "Arial Narrow";
 	letter-spacing: 1px;
@@ -20,11 +27,17 @@ p {
 	color: #343434;
 }
 
-small {
+small, li {
 	font-family: "Arial Narrow";
 	letter-spacing: 1px;
 	size: 12pt;
 	color: #343434;
+}
+
+em {
+	font-style: normal;
+	color: #cc7a00;
+	font-weight: normal;
 }
 
 body {
