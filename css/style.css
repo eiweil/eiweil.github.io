@@ -1,12 +1,21 @@
 
 h1 {
-	font-family: arial;
+	font-family: "arial narrow";
+	letter-spacing: 1px;
 	size: 24pt;
-	color: #676767;
+	color: #ffa31a;
+}
+
+h3 {
+	font-family: "arial narrow";
+	letter-spacing: 1px;
+	size: 20pt;
+	color: #cc7a00;
 }
 
 p {
-	font-family: arial;
+	font-family: "arial narrow";
+	letter-spacing: 1px;
 	size: 16pt;
 	color: #343434;
 }
@@ -19,6 +28,11 @@ p {
 body {
 	width: 90%;
 	float: right;
+}
+
+#guts {
+	width: 70%;
+	float: left;
 }
 
 #sidebar {
