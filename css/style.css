@@ -1,12 +1,36 @@
 
 h1 {
 	font-family: arial;
-	text-size: 24pt;
+	size: 24pt;
 	color: #676767;
 }
 
 p {
 	font-family: arial;
-	text-size: 16pt;
+	size: 16pt;
 	color: #343434;
+}
+
+.sublink {
+	size: 14pt;
+	text-indent: 20px;
+}
+
+body {
+	width: 90%;
+	float: right;
+}
+
+#sidebar {
+	width: 20%;
+	float: left;
+}
+
+a {
+	color: #cc2900;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #ff704d;
 }
