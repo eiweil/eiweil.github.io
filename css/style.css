@@ -3,21 +3,28 @@ h1 {
 	font-family: "Arial Narrow";
 	letter-spacing: 1px;
 	size: 24pt;
-	color: #ffa31a;
+	color: #2500e3;
+}
+
+h2 {
+	font-family: "Arial Narrow";
+	letter-spacing: 1px;
+	size: 22pt;
+	color: #fcca00;
 }
 
 h3 {
 	font-family: "Arial Narrow";
 	letter-spacing: 1px;
 	size: 20pt;
-	color: #cc7a00;
+	color: #fcca00;
 }
 
 h4 {
 	font-family: "Arial Narrow";
 	letter-spacing: 1px;
 	size: 16pt;
-	color: #cc7a00;
+	color: #2500e3;
 }
 
 p {
@@ -36,13 +43,15 @@ small, li {
 
 em {
 	font-style: normal;
-	color: #cc7a00;
+	color: #2500e3;
 	font-weight: normal;
 }
 
 body {
-	width: 90%;
-	float: right;
+	width: 80%;
+	float: left;
+	position: relative;
+	left: 10%;
 }
 
 #guts {
@@ -56,10 +65,13 @@ body {
 }
 
 a {
-	color: #cc2900;
-	text-decoration: none;
+	color: #ff3600;
+	border-bottom: 1px dashed #ff3600;
+    text-decoration: none;
 }
 
 a:hover {
-	color: #ff704d;
+	color: #2500e3;
+	border-bottom: 1px dashed #2500e3;
+    text-decoration: none;
 }
